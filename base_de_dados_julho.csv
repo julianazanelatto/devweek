@@ -1,0 +1,10 @@
+Exame Mamografia
+Quant Exames por Reg Residência e Faixa Etária
+Período:Jul/2015
+"Reg Residência";" Ate 10 anos";" Entre 11 a 14 anos";" Entre 15 a 19 anos";" Entre 20 a 24 anos";" Entre 25 a 29 anos";" Entre 30 a 34 anos";" Entre 35 a 39 anos";" Entre 40 a 44 anos";" Entre 45 a 49 anos";" Entre 50 a 54 anos";" Entre 55 a 59 anos";" Entre 60 a 64 anos";" Entre 65 a 69 anos";" Acima de 70 anos";" Informação inconsistente";"Total"
+"Região Norte";-;-;-;-;-;1;3;14;9;15;9;3;3;3;-;60
+"Região Nordeste";1;-;2;-;-;22;1133;2010;1990;1590;1289;957;679;629;2;10304
+"Região Sudeste";6;3;50;110;233;691;3219;13103;15623;16206;14298;11822;7690;6486;117;89657
+"Região Sul";-;-;-;-;1;1;1;19;22;27;24;16;10;1;-;122
+"Região Centro-Oeste";-;-;1;4;5;12;31;481;545;572;441;277;162;41;9;2581
+"Total";7;3;53;114;239;727;4387;15627;18189;18410;16061;13075;8544;7160;128;102724
