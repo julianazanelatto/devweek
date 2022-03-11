@@ -1,4 +1,4 @@
-CREATE USER 'java'@localhost INDENTIFIED BY 'Passw123!@';
+CREATE USER 'java'@localhost IDENTIFIED BY 'Passw123!@';
 GRANT ALL PRIVILEGES ON *.* TO 'java'@localhost;
 
 CREATE DATABASE dbcancerdemama;
