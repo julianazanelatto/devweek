@@ -1,5 +1,5 @@
-CREATE USER 'java'@localhost INDENTIFIED BY 'Passw123!@';
-GRANT ALL PRIVILEGES ON *.* TO 'java'@localhost;
+CREATE USER 'user'@localhost INDENTIFIED BY 'password';
+GRANT ALL PRIVILEGES ON *.* TO 'user'@localhost;
 
 CREATE DATABASE dbcancerdemama;
 SHOW DATABASES;
